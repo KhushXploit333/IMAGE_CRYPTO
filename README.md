@@ -24,6 +24,6 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
    ```bash
    pip install Pillow cryptography
    Run the program:
-   python image_encryption_tool.py
+   python rsa_keygen.py
 
  
