@@ -1,0 +1,18 @@
+pip install -r requirements.txt
+
+python -m venv venv source venv/bin/activate # On Windows use
+
+
+Pillow==9.2.0
+numpy==1.21.2
+pycryptodome==3.14.1
+pip install python 3.x
+
+pip install pillow python
+Pillow: A Python Imaging Library that adds image processing capabilities to your Python interpreter. It is used for opening, manipulating, and saving image files.
+
+pip install NumPy python
+NumPy: A fundamental package for scientific computing in Python. It is used here for handling pixel data in the form of arrays.
+
+PyCryptodome: A self-contained Python package of low-level cryptographic primitives. It is used for RSA encryption and decryption.
+
