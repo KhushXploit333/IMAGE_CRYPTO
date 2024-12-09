@@ -17,7 +17,7 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/image-encryption-tool.git
+   git clone https://github.com/Thencrypt-K3/IMAGE_CRYPTO.git
    cd image_cryptography
 
 2.Install the required libraries: Make sure you have Python installed, then run:
