@@ -22,9 +22,10 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
 
 2.Install the required libraries: Make sure you have Python installed, then run:
   ````bash
-            pip install Pillow cryptography
+  pip install Pillow cryptography
+
 Run the program:
-   
-              python RSA_RSAI.py
+
+ python RSA_RSAI.py
 
  
