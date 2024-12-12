@@ -21,9 +21,10 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
    cd image_cryptography
 
 2.Install the required libraries: Make sure you have Python installed, then run:
-   ```bash
-   pip install Pillow cryptography
-   Run the program:
-   python rsa_keygen.py
+  ````bash
+            pip install Pillow cryptography
+Run the program:
+   
+              python RSA_RSAI.py
 
  
