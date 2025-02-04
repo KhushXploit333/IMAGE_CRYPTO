@@ -1,5 +1,5 @@
 # IMAGE_CRYPTO
-##IMAGE_CRYPTO##   __PRODIGY_CS_02___   "Secure your images with pixel manipulation and RSA encryption."!!!
+##IMAGE_CRYPTO   "Secure your images with pixel manipulation and RSA encryption."!!!
 
 # Image Encryption Tool
 
@@ -17,7 +17,7 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Thencrypt-K3/IMAGE_CRYPTO.git
+   git clone https://github.com/KhushXploit333/IMAGE_CRYPTO.git
    cd image_cryptography
 
 2.Install the required libraries: Make sure you have Python installed, then run:
